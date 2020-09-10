@@ -1,18 +1,18 @@
 {
-    "appTitle": "Klingon Language Pack Installer",
-    "appWelcomeMessage": "This plugin installs language definitions for the Klingon language in Pentaho",
-    "language": "Klingon",
-    "languageCode": "tlh",
-    "pentahoVersion": "6.1.0",
+    "appTitle": "Hungarian Language Pack Installer",
+    "appWelcomeMessage": "This plugin installs language definitions for the Hungarian language in Pentaho",
+    "language": "Hungarian",
+    "languageCode": "hu",
+    "pentahoVersion": "8.2",
     "maturity": {
         "lane": "Community",
         "phase": "2"
     },
     "maintainer": {
-        "name": "Marc Okrand",
-        "email": "Marc.Okrand@gmail.com",
+        "name": "Gábor Csillag",
+        "email": "gaborcsillag@gmail.com",
         "img": "",
-        "url": "http:\/\/www.google.com"
+        "url": ""
     },
     "credits": [{
         "name": "",

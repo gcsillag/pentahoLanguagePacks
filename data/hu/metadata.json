@@ -3,14 +3,14 @@
     "appWelcomeMessage": "This plugin installs language definitions for the Hungarian language in Pentaho",
     "language": "Hungarian",
     "languageCode": "hu",
-    "pentahoVersion": "7.0",
+    "pentahoVersion": "8.2",
     "maturity": {
         "lane": "Community",
         "phase": "2"
     },
     "maintainer": {
-        "name": "Héja Tibor",
-        "email": "hea.tibor@gmail.com",
+        "name": "Gábor Csillag",
+        "email": "gaborcsillag@gmail.com",
         "img": "",
         "url": ""
     },
